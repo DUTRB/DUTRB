@@ -1,13 +1,5 @@
 
 <div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-
-<h1 align="center"> 
-  <a href="https://sunguoqi.com/"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hello%2C%20World!%22;小茹同学祝您今天愉快!&center=true&size=27"> 
-  </a> 
-</h1>
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
@@ -91,7 +83,6 @@
 
 🧰 常用的工具
 
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
@@ -100,10 +91,8 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-
 <div align="center" >
-
-
+<!--  最近三十天提交记录 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DUTRB&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
