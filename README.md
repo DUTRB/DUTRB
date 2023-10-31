@@ -37,7 +37,7 @@
 <tr>
 <td>
   
-### 🏢 Study Experience
+### 🏢 Education
 
 - [大连理工大学](https://www.dlut.edu.cn/) &emsp; 📌 2022-09-01 —— Now
   
