@@ -46,8 +46,6 @@
   
 ### 🏢 Study Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
-
 - [大连理工大学](https://www.dlut.edu.cn/) &emsp; 📌 2022-09-01 —— Now
   
   - 专业：控制科学与工程
