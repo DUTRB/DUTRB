@@ -39,11 +39,6 @@
 
 <tr><td>
 
-  
-</td></tr>
-</table>
-
-
 <!--  skill badge 技能徽章 -->
 
 <div align="center" >
