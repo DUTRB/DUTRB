@@ -15,7 +15,7 @@
 
 <p>&emsp;&emsp;你好，我是rubo。</p>
 <p>&emsp;&emsp;工科控制转码，热爱编程、读书、跑步。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
 
 </td></tr>
 
