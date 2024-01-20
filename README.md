@@ -37,7 +37,8 @@
 </td>
 </tr>
 
-</td></tr>
+<tr>
+<td>
 
 <!--  skill badge 技能徽章 -->
 
