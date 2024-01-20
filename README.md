@@ -40,7 +40,6 @@
 <tr>
 <td>
 
-<!--  skill badge 技能徽章 -->
 
 <div align="center" >
   
